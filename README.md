@@ -17,4 +17,4 @@ SQL | R | Excel | Power BI | Tableau | Azure | Others
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🗂️ Featured Projects
-- [USA Property Price Analysis](link-to-project)
+- [USA Property Price Analysis](https://github.com/AnnNguyen1807/USA-Property-Price-Analysis)
